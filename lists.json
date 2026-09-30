@@ -1,0 +1,48 @@
+[
+  {
+    "id": "basic-verbs-1",
+    "title": "Temel Fiiller",
+    "emoji": "⚡",
+    "lang": "İngilizce",
+    "words": [
+      ["go", "gitmek"],
+      ["come", "gelmek"],
+      ["make", "yapmak"],
+      ["take", "almak"],
+      ["give", "vermek"],
+      ["get", "elde etmek"],
+      ["see", "görmek"],
+      ["know", "bilmek"],
+      ["think", "düşünmek"],
+      ["say", "söylemek"],
+      ["find", "bulmak"],
+      ["work", "çalışmak"],
+      ["want", "istemek"],
+      ["use", "kullanmak"],
+      ["learn", "öğrenmek"]
+    ]
+  },
+  {
+    "id": "everyday-adjectives-1",
+    "title": "Günlük Sıfatlar",
+    "emoji": "✨",
+    "lang": "İngilizce",
+    "words": [
+      ["big", "büyük"],
+      ["small", "küçük"],
+      ["good", "iyi"],
+      ["bad", "kötü"],
+      ["new", "yeni"],
+      ["old", "eski"],
+      ["happy", "mutlu"],
+      ["sad", "üzgün"],
+      ["fast", "hızlı"],
+      ["slow", "yavaş"],
+      ["easy", "kolay"],
+      ["hard", "zor"],
+      ["beautiful", "güzel"],
+      ["strong", "güçlü"],
+      ["quiet", "sessiz"]
+    ]
+  }
+]
