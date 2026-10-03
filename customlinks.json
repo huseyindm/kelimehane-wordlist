@@ -1,0 +1,149 @@
+{
+  "id": "directions",
+  "title": "Yönler",
+  "emoji": "🧭",
+  "wordLang": "en",
+  "transLang": "tr",
+  "words": [
+    {
+      "word": "north",
+      "translation": "kuzey",
+      "type": 3,
+      "synonyms": "northward",
+      "antonyms": "south",
+      "example": "The north is colder in winter.",
+      "notes": "Dört ana yönden biri; pusulada üst tarafı gösterir.",
+      "color": 5
+    },
+    {
+      "word": "south",
+      "translation": "güney",
+      "type": 3,
+      "synonyms": "southward",
+      "antonyms": "north",
+      "example": "We are traveling south.",
+      "notes": "Dört ana yönden biri; kuzeyin karşısındaki yöndür.",
+      "color": 1
+    },
+    {
+      "word": "east",
+      "translation": "doğu",
+      "type": 3,
+      "synonyms": "eastward",
+      "antonyms": "west",
+      "example": "The sun rises in the east.",
+      "notes": "Güneşin doğduğu yön.",
+      "color": 3
+    },
+    {
+      "word": "west",
+      "translation": "batı",
+      "type": 3,
+      "synonyms": "westward",
+      "antonyms": "east",
+      "example": "The sun sets in the west.",
+      "notes": "Güneşin battığı yön.",
+      "color": 6
+    },
+    {
+      "word": "northeast",
+      "translation": "kuzeydoğu",
+      "type": 3,
+      "synonyms": "northeastern",
+      "antonyms": "southwest",
+      "example": "The town is northeast of the city.",
+      "notes": "Kuzey ile doğu arasındaki ara yön.",
+      "color": 5
+    },
+    {
+      "word": "northwest",
+      "translation": "kuzeybatı",
+      "type": 3,
+      "synonyms": "northwestern",
+      "antonyms": "southeast",
+      "example": "The mountains are northwest of here.",
+      "notes": "Kuzey ile batı arasındaki ara yön.",
+      "color": 5
+    },
+    {
+      "word": "southeast",
+      "translation": "güneydoğu",
+      "type": 3,
+      "synonyms": "southeastern",
+      "antonyms": "northwest",
+      "example": "The village is southeast of the lake.",
+      "notes": "Güney ile doğu arasındaki ara yön.",
+      "color": 2
+    },
+    {
+      "word": "southwest",
+      "translation": "güneybatı",
+      "type": 3,
+      "synonyms": "southwestern",
+      "antonyms": "northeast",
+      "example": "They moved to the southwest.",
+      "notes": "Güney ile batı arasındaki ara yön.",
+      "color": 6
+    },
+    {
+      "word": "left",
+      "translation": "sol",
+      "type": 3,
+      "synonyms": "left-hand side",
+      "antonyms": "right",
+      "example": "Turn left at the corner.",
+      "notes": "Bir kişinin yöneldiği tarafa göre sol taraf.",
+      "color": 4
+    },
+    {
+      "word": "right",
+      "translation": "sağ",
+      "type": 3,
+      "synonyms": "right-hand side",
+      "antonyms": "left",
+      "example": "Turn right after the bank.",
+      "notes": "Bir kişinin yöneldiği tarafa göre sağ taraf.",
+      "color": 3
+    },
+    {
+      "word": "forward",
+      "translation": "ileri",
+      "type": 3,
+      "synonyms": "ahead",
+      "antonyms": "backward",
+      "example": "Walk forward for two minutes.",
+      "notes": "Bulunulan konumdan öne doğru olan yön.",
+      "color": 4
+    },
+    {
+      "word": "backward",
+      "translation": "geri",
+      "type": 3,
+      "synonyms": "back",
+      "antonyms": "forward",
+      "example": "Take one step backward.",
+      "notes": "Bulunulan konumdan arkaya doğru olan yön.",
+      "color": 8
+    },
+    {
+      "word": "up",
+      "translation": "yukarı",
+      "type": 3,
+      "synonyms": "above",
+      "antonyms": "down",
+      "example": "Look up at the sky.",
+      "notes": "Daha yüksek bir konuma doğru yönü ifade eder.",
+      "color": 5
+    },
+    {
+      "word": "down",
+      "translation": "aşağı",
+      "type": 3,
+      "synonyms": "below",
+      "antonyms": "up",
+      "example": "Go down the stairs.",
+      "notes": "Daha düşük bir konuma doğru yönü ifade eder.",
+      "color": 6
+    }
+  ]
+}
