@@ -1,48 +1,324 @@
-[
-  {
-    "id": "basic-verbs-1",
-    "title": "Temel Fiiller",
-    "emoji": "⚡",
-    "lang": "İngilizce",
-    "words": [
-      ["go", "gitmek"],
-      ["come", "gelmek"],
-      ["make", "yapmak"],
-      ["take", "almak"],
-      ["give", "vermek"],
-      ["get", "elde etmek"],
-      ["see", "görmek"],
-      ["know", "bilmek"],
-      ["think", "düşünmek"],
-      ["say", "söylemek"],
-      ["find", "bulmak"],
-      ["work", "çalışmak"],
-      ["want", "istemek"],
-      ["use", "kullanmak"],
-      ["learn", "öğrenmek"]
-    ]
-  },
-  {
-    "id": "everyday-adjectives-1",
-    "title": "Günlük Sıfatlar",
-    "emoji": "✨",
-    "lang": "İngilizce",
-    "words": [
-      ["big", "büyük"],
-      ["small", "küçük"],
-      ["good", "iyi"],
-      ["bad", "kötü"],
-      ["new", "yeni"],
-      ["old", "eski"],
-      ["happy", "mutlu"],
-      ["sad", "üzgün"],
-      ["fast", "hızlı"],
-      ["slow", "yavaş"],
-      ["easy", "kolay"],
-      ["hard", "zor"],
-      ["beautiful", "güzel"],
-      ["strong", "güçlü"],
-      ["quiet", "sessiz"]
-    ]
-  }
-]
+{
+  "version": 1,
+  "updatedAt": "2026-10-03T00:00:00.000Z",
+  "lists": [
+    {
+      "id": "colors-basic",
+      "title": "Temel Renkler",
+      "emoji": "🎨",
+      "wordLang": "en",
+      "transLang": "tr",
+      "words": [
+        {
+          "word": "red",
+          "translation": "kırmızı",
+          "type": 3,
+          "synonyms": "crimson, scarlet",
+          "antonyms": "",
+          "example": "The apple is red.",
+          "notes": "Ana renklerden biri.",
+          "color": 1
+        },
+        {
+          "word": "blue",
+          "translation": "mavi",
+          "type": 3,
+          "synonyms": "azure, navy",
+          "antonyms": "",
+          "example": "The sky is blue.",
+          "notes": "Sakinlik ve huzur rengi.",
+          "color": 5
+        },
+        {
+          "word": "green",
+          "translation": "yeşil",
+          "type": 3,
+          "synonyms": "emerald",
+          "antonyms": "",
+          "example": "The grass is green.",
+          "notes": "Doğa ve tazelik rengi.",
+          "color": 4
+        },
+        {
+          "word": "yellow",
+          "translation": "sarı",
+          "type": 3,
+          "synonyms": "golden",
+          "antonyms": "",
+          "example": "The sun is yellow.",
+          "notes": "Sıcak ve neşeli bir renk.",
+          "color": 3
+        },
+        {
+          "word": "black",
+          "translation": "siyah",
+          "type": 3,
+          "synonyms": "dark, ebony",
+          "antonyms": "white",
+          "example": "He wore a black coat.",
+          "notes": "Karanlık ve ciddi tonu.",
+          "color": 0
+        },
+        {
+          "word": "white",
+          "translation": "beyaz",
+          "type": 3,
+          "synonyms": "ivory",
+          "antonyms": "black",
+          "example": "Snow is white.",
+          "notes": "Saflık ve temizlik sembolü.",
+          "color": 0
+        },
+        {
+          "word": "orange",
+          "translation": "turuncu",
+          "type": 3,
+          "synonyms": "amber",
+          "antonyms": "",
+          "example": "The orange fruit is orange.",
+          "notes": "Meyve adıyla aynı olan renk.",
+          "color": 2
+        },
+        {
+          "word": "purple",
+          "translation": "mor",
+          "type": 3,
+          "synonyms": "violet",
+          "antonyms": "",
+          "example": "She loves purple flowers.",
+          "notes": "Asalet ve zarafet rengi.",
+          "color": 6
+        },
+        {
+          "word": "pink",
+          "translation": "pembe",
+          "type": 3,
+          "synonyms": "rose",
+          "antonyms": "",
+          "example": "Her dress is pink.",
+          "notes": "Yumuşak ve feminen bir ton.",
+          "color": 7
+        },
+        {
+          "word": "brown",
+          "translation": "kahverengi",
+          "type": 3,
+          "synonyms": "tan",
+          "antonyms": "",
+          "example": "The dog is brown.",
+          "notes": "Toprak ve doğa tonu.",
+          "color": 8
+        },
+        {
+          "word": "gray",
+          "translation": "gri",
+          "type": 3,
+          "synonyms": "silver",
+          "antonyms": "",
+          "example": "The sky is gray today.",
+          "notes": "Nötr ve sakin bir renk.",
+          "color": 0
+        },
+        {
+          "word": "gold",
+          "translation": "altın",
+          "type": 1,
+          "synonyms": "golden",
+          "antonyms": "",
+          "example": "Gold is a precious metal.",
+          "notes": "Değerli maden; sarı tonuyla parlar.",
+          "color": 3
+        },
+        {
+          "word": "silver",
+          "translation": "gümüş",
+          "type": 1,
+          "synonyms": "",
+          "antonyms": "",
+          "example": "The ring is made of silver.",
+          "notes": "Değerli maden; gri-beyaz tonu.",
+          "color": 0
+        },
+        {
+          "word": "navy",
+          "translation": "lacivert",
+          "type": 3,
+          "synonyms": "dark blue",
+          "antonyms": "",
+          "example": "He wore a navy suit.",
+          "notes": "Koyu mavi tonu; denizci mavisi.",
+          "color": 5
+        },
+        {
+          "word": "beige",
+          "translation": "bej",
+          "type": 3,
+          "synonyms": "cream",
+          "antonyms": "",
+          "example": "The wall is painted beige.",
+          "notes": "Açık kahverengi; nötr ton.",
+          "color": 8
+        }
+      ]
+    },
+    {
+      "id": "common-verbs",
+      "title": "Yaygın Fiiller",
+      "emoji": "🏃",
+      "wordLang": "en",
+      "transLang": "tr",
+      "words": [
+        {
+          "word": "run",
+          "translation": "koşmak",
+          "type": 2,
+          "synonyms": "sprint, jog",
+          "antonyms": "walk",
+          "example": "I run every morning.",
+          "notes": "Hızlı hareket etmek.",
+          "color": 4
+        },
+        {
+          "word": "eat",
+          "translation": "yemek yemek",
+          "type": 2,
+          "synonyms": "consume, dine",
+          "antonyms": "fast",
+          "example": "We eat dinner at seven.",
+          "notes": "Yemek yeme eylemi.",
+          "color": 2
+        },
+        {
+          "word": "sleep",
+          "translation": "uyumak",
+          "type": 2,
+          "synonyms": "rest, doze",
+          "antonyms": "wake",
+          "example": "Babies sleep a lot.",
+          "notes": "Dinlenme ve uyku eylemi.",
+          "color": 6
+        },
+        {
+          "word": "read",
+          "translation": "okumak",
+          "type": 2,
+          "synonyms": "study, peruse",
+          "antonyms": "",
+          "example": "I read books daily.",
+          "notes": "Yazılı metni anlamak.",
+          "color": 5
+        },
+        {
+          "word": "write",
+          "translation": "yazmak",
+          "type": 2,
+          "synonyms": "scribble, record",
+          "antonyms": "erase",
+          "example": "She writes a letter.",
+          "notes": "Yazı yazma eylemi.",
+          "color": 0
+        },
+        {
+          "word": "speak",
+          "translation": "konuşmak",
+          "type": 2,
+          "synonyms": "talk, say",
+          "antonyms": "listen",
+          "example": "He speaks three languages.",
+          "notes": "Sözlü iletişim kurmak.",
+          "color": 5
+        },
+        {
+          "word": "listen",
+          "translation": "dinlemek",
+          "type": 2,
+          "synonyms": "hear",
+          "antonyms": "speak",
+          "example": "Listen to me carefully.",
+          "notes": "Dikkatle kulak vermek.",
+          "color": 4
+        },
+        {
+          "word": "think",
+          "translation": "düşünmek",
+          "type": 2,
+          "synonyms": "ponder, consider",
+          "antonyms": "",
+          "example": "I think it's correct.",
+          "notes": "Zihinsel bir eylem.",
+          "color": 6
+        },
+        {
+          "word": "know",
+          "translation": "bilmek",
+          "type": 2,
+          "synonyms": "understand",
+          "antonyms": "",
+          "example": "Do you know him?",
+          "notes": "Bilgi sahibi olmak.",
+          "color": 3
+        },
+        {
+          "word": "want",
+          "translation": "istemek",
+          "type": 2,
+          "synonyms": "desire, wish",
+          "antonyms": "",
+          "example": "I want a coffee.",
+          "notes": "Arzu etmek.",
+          "color": 2
+        },
+        {
+          "word": "love",
+          "translation": "sevmek",
+          "type": 2,
+          "synonyms": "adore, cherish",
+          "antonyms": "hate",
+          "example": "I love my family.",
+          "notes": "Derin bir duygu.",
+          "color": 1
+        },
+        {
+          "word": "help",
+          "translation": "yardım etmek",
+          "type": 2,
+          "synonyms": "assist, aid",
+          "antonyms": "",
+          "example": "Can you help me?",
+          "notes": "Destek olmak.",
+          "color": 4
+        },
+        {
+          "word": "give",
+          "translation": "vermek",
+          "type": 2,
+          "synonyms": "offer, provide",
+          "antonyms": "take",
+          "example": "Give me the book.",
+          "notes": "Bir şeyi başkasına aktarmak.",
+          "color": 3
+        },
+        {
+          "word": "take",
+          "translation": "almak",
+          "type": 2,
+          "synonyms": "grab, receive",
+          "antonyms": "give",
+          "example": "Take this umbrella.",
+          "notes": "Bir şeyi kabul etmek veya tutmak.",
+          "color": 8
+        },
+        {
+          "word": "make",
+          "translation": "yapmak",
+          "type": 2,
+          "synonyms": "create, build",
+          "antonyms": "destroy",
+          "example": "Let's make a cake.",
+          "notes": "Bir şey üretmek.",
+          "color": 2
+        }
+      ]
+    }
+  ]
+}
