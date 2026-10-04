@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T00:00:00.000Z",
+  "updatedAt": "2026-10-04T00:00:00.000Z",
   "lists": [
     {
       "id": "colors-basic",
-      "title": "Temel inekler",
+      "title": "Temel Renkler",
       "emoji": "🎨",
       "wordLang": "en",
       "transLang": "tr",
@@ -317,6 +317,25 @@
           "example": "Let's make a cake.",
           "notes": "Bir şey üretmek.",
           "color": 2
+        }
+      ]
+    },
+    {
+      "id": "basic-cows",
+      "title": "Temel İnekler",
+      "emoji": "🐄",
+      "wordLang": "en",
+      "transLang": "tr",
+      "words": [
+        {
+          "word": "cow",
+          "translation": "inek",
+          "type": 1,
+          "synonyms": "",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
         }
       ]
     }
