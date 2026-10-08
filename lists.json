@@ -1,337 +1,1209 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T00:00:00.000Z",
+  "updatedAt": "2026-10-08T16:39:16.387Z",
   "lists": [
     {
-      "id": "colors-basic",
-      "title": "Temel Renkler",
-      "emoji": "🎨",
+      "id": "ydt-kelimeler",
+      "title": "YDT Kelimeler",
+      "emoji": "📚",
       "wordLang": "en",
       "transLang": "tr",
       "words": [
         {
-          "word": "red",
-          "translation": "kırmızı",
-          "type": 3,
-          "synonyms": "crimson, scarlet",
+          "word": "currently",
+          "translation": "mevcut durumda, şuan",
+          "type": 4,
+          "synonyms": "at present, now, presently",
           "antonyms": "",
-          "example": "The apple is red.",
-          "notes": "Ana renklerden biri.",
-          "color": 1
-        },
-        {
-          "word": "blue",
-          "translation": "mavi",
-          "type": 3,
-          "synonyms": "azure, navy",
-          "antonyms": "",
-          "example": "The sky is blue.",
-          "notes": "Sakinlik ve huzur rengi.",
-          "color": 5
-        },
-        {
-          "word": "green",
-          "translation": "yeşil",
-          "type": 3,
-          "synonyms": "emerald",
-          "antonyms": "",
-          "example": "The grass is green.",
-          "notes": "Doğa ve tazelik rengi.",
-          "color": 4
-        },
-        {
-          "word": "yellow",
-          "translation": "sarı",
-          "type": 3,
-          "synonyms": "golden",
-          "antonyms": "",
-          "example": "The sun is yellow.",
-          "notes": "Sıcak ve neşeli bir renk.",
-          "color": 3
-        },
-        {
-          "word": "black",
-          "translation": "siyah",
-          "type": 3,
-          "synonyms": "dark, ebony",
-          "antonyms": "white",
-          "example": "He wore a black coat.",
-          "notes": "Karanlık ve ciddi tonu.",
+          "example": "The talented younster is currently learning to play the keyboard instruments.",
+          "notes": "",
           "color": 0
         },
         {
-          "word": "white",
-          "translation": "beyaz",
-          "type": 3,
-          "synonyms": "ivory",
-          "antonyms": "black",
-          "example": "Snow is white.",
-          "notes": "Saflık ve temizlik sembolü.",
-          "color": 0
-        },
-        {
-          "word": "orange",
-          "translation": "turuncu",
-          "type": 3,
-          "synonyms": "amber",
-          "antonyms": "",
-          "example": "The orange fruit is orange.",
-          "notes": "Meyve adıyla aynı olan renk.",
-          "color": 2
-        },
-        {
-          "word": "purple",
-          "translation": "mor",
-          "type": 3,
-          "synonyms": "violet",
-          "antonyms": "",
-          "example": "She loves purple flowers.",
-          "notes": "Asalet ve zarafet rengi.",
-          "color": 6
-        },
-        {
-          "word": "pink",
-          "translation": "pembe",
-          "type": 3,
-          "synonyms": "rose",
-          "antonyms": "",
-          "example": "Her dress is pink.",
-          "notes": "Yumuşak ve feminen bir ton.",
-          "color": 7
-        },
-        {
-          "word": "brown",
-          "translation": "kahverengi",
-          "type": 3,
-          "synonyms": "tan",
-          "antonyms": "",
-          "example": "The dog is brown.",
-          "notes": "Toprak ve doğa tonu.",
-          "color": 8
-        },
-        {
-          "word": "gray",
-          "translation": "gri",
-          "type": 3,
-          "synonyms": "silver",
-          "antonyms": "",
-          "example": "The sky is gray today.",
-          "notes": "Nötr ve sakin bir renk.",
-          "color": 0
-        },
-        {
-          "word": "gold",
-          "translation": "altın",
+          "word": "victim",
+          "translation": "kurban, mağdur",
           "type": 1,
-          "synonyms": "golden",
+          "synonyms": "sufferer",
           "antonyms": "",
-          "example": "Gold is a precious metal.",
-          "notes": "Değerli maden; sarı tonuyla parlar.",
-          "color": 3
+          "example": "It is believed that one woman in four now suffers as a victim of domestic violence.",
+          "notes": "",
+          "color": 0
         },
         {
-          "word": "silver",
-          "translation": "gümüş",
+          "word": "trade",
+          "translation": "ticaret",
           "type": 1,
+          "synonyms": "commerce, business",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "guess",
+          "translation": "tahmin etmek",
+          "type": 2,
+          "synonyms": "estimate, predict",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "continent",
+          "translation": "kıta, ana kara",
+          "type": 1,
+          "synonyms": "mainland",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "gradually",
+          "translation": "kademe kademe, yavaş yavaş",
+          "type": 4,
+          "synonyms": "progressively, step by step",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "growth",
+          "translation": "büyüme, gelişme",
+          "type": 1,
+          "synonyms": "development",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "disease",
+          "translation": "hastalık, rahatsızlık",
+          "type": 1,
+          "synonyms": "ilness, ailment, sickness",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "flexible",
+          "translation": "esnek, değişken",
+          "type": 3,
+          "synonyms": "bendable, adaptable",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "increase",
+          "translation": "art(ır)mak",
+          "type": 2,
+          "synonyms": "rise, escalate, augment, elevate",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "feed",
+          "translation": "beslemek, doyurmak",
+          "type": 2,
+          "synonyms": "give food, nourish",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "investigate",
+          "translation": "araştırmak, incelemek, soruşturmak",
+          "type": 2,
+          "synonyms": "examine, study, look into, scrutinize",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "proud",
+          "translation": "gururlu",
+          "type": 3,
+          "synonyms": "pleased, glad",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "disaster",
+          "translation": "afet, felaket, facia",
+          "type": 1,
+          "synonyms": "calamity, catastrophe",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "garbage",
+          "translation": "çöp, atık",
+          "type": 1,
+          "synonyms": "litter, rubbish, trash",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "destiny",
+          "translation": "alın yazısı, kader",
+          "type": 1,
+          "synonyms": "fate, fortune",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "face",
+          "translation": "yüzleşmek, karşılaşmak",
+          "type": 2,
+          "synonyms": "confront, encounter",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "beneficial",
+          "translation": "faydalı, yararlı",
+          "type": 3,
+          "synonyms": "helpful, useful",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "fund",
+          "translation": "kaynak, sermaye, fon",
+          "type": 1,
+          "synonyms": "capital, source",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "obviously",
+          "translation": "apaçık, belli ki",
+          "type": 4,
+          "synonyms": "clearly, evidently",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "wise",
+          "translation": "bilge, akıllı",
+          "type": 3,
+          "synonyms": "clever, intelligent",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "external",
+          "translation": "harici, dış",
+          "type": 3,
+          "synonyms": "exterior, outside",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "ban",
+          "translation": "yasaklamak, men etmek",
+          "type": 2,
+          "synonyms": "prohibit, forbid",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "individual",
+          "translation": "bireysel, şahsi",
+          "type": 3,
+          "synonyms": "single, seperate, personal",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "gain",
+          "translation": "kazanmak, elde etmek",
+          "type": 2,
+          "synonyms": "get, acquire",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "donation",
+          "translation": "bağış, yardım",
+          "type": 1,
+          "synonyms": "grant, contribution",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "precise",
+          "translation": "kesin, belirli",
+          "type": 3,
+          "synonyms": "exact, accurate",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "urgent",
+          "translation": "acil, acele",
+          "type": 3,
+          "synonyms": "immediate",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "exhibit",
+          "translation": "sergilemek, göstermek",
+          "type": 2,
+          "synonyms": "show, display",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "vital",
+          "translation": "hayati, çok önemli",
+          "type": 3,
+          "synonyms": "crucial, important, significant",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "influence",
+          "translation": "etki, tesir, nüfuz",
+          "type": 1,
+          "synonyms": "effect, impact",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "drastic",
+          "translation": "ciddi, güçlü, sert",
+          "type": 3,
+          "synonyms": "radical, strong, severe",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "average",
+          "translation": "ortalama",
+          "type": 3,
+          "synonyms": "approximate",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "widespread",
+          "translation": "yaygın, geniş çapta",
+          "type": 3,
+          "synonyms": "prevalent, common",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "evolve",
+          "translation": "gelişmek, dönüşmek",
+          "type": 2,
+          "synonyms": "develop, progress, change",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "victory",
+          "translation": "zafer, başarı",
+          "type": 1,
+          "synonyms": "triumph, success",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "release",
+          "translation": "serbest bırakmak, salmak",
+          "type": 2,
+          "synonyms": "let out, discharge",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "immense",
+          "translation": "çok büyük, engin, kocaman, muazzam",
+          "type": 3,
+          "synonyms": "huge, enormous, massive, tremendous",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "belief",
+          "translation": "inanç, güven",
+          "type": 1,
+          "synonyms": "confidence, trust",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "urban",
+          "translation": "şehirle ilgili, kentsel",
+          "type": 3,
+          "synonyms": "municipal, civic",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "predict",
+          "translation": "öngörmek, tahmin etmek",
+          "type": 2,
+          "synonyms": "forecast, foresee, envisage",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "issue",
+          "translation": "konu, sorun",
+          "type": 1,
+          "synonyms": "subject, matter",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "propensity",
+          "translation": "eğilim, meyil",
+          "type": 1,
+          "synonyms": "tendency, inclination",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "occur",
+          "translation": "meydana gelmek, olmak",
+          "type": 2,
+          "synonyms": "take place, happen",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "failure",
+          "translation": "başarısızlık, hata",
+          "type": 1,
+          "synonyms": "disappointment, fiasco",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "client",
+          "translation": "müvekkil, müşteri",
+          "type": 1,
+          "synonyms": "customer",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "reduce",
+          "translation": "azaltmak, düşürmek",
+          "type": 2,
+          "synonyms": "lessen, diminish, lower",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "precaution",
+          "translation": "önlem, tedbir",
+          "type": 1,
+          "synonyms": "measure, safeguard",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "labourer",
+          "translation": "önlem, tedbir",
+          "type": 0,
           "synonyms": "",
           "antonyms": "",
-          "example": "The ring is made of silver.",
-          "notes": "Değerli maden; gri-beyaz tonu.",
+          "example": "",
+          "notes": "",
           "color": 0
         },
         {
-          "word": "navy",
-          "translation": "lacivert",
-          "type": 3,
-          "synonyms": "dark blue",
+          "word": "avoid",
+          "translation": "kaçınmak, geçiştirmek",
+          "type": 2,
+          "synonyms": "refrain from, keep away from",
           "antonyms": "",
-          "example": "He wore a navy suit.",
-          "notes": "Koyu mavi tonu; denizci mavisi.",
-          "color": 5
-        },
-        {
-          "word": "beige",
-          "translation": "bej",
-          "type": 3,
-          "synonyms": "cream",
-          "antonyms": "",
-          "example": "The wall is painted beige.",
-          "notes": "Açık kahverengi; nötr ton.",
-          "color": 8
-        }
-      ]
-    },
-    {
-      "id": "common-verbs",
-      "title": "Yaygın Fiiller",
-      "emoji": "🏃",
-      "wordLang": "en",
-      "transLang": "tr",
-      "words": [
-        {
-          "word": "run",
-          "translation": "koşmak",
-          "type": 2,
-          "synonyms": "sprint, jog",
-          "antonyms": "walk",
-          "example": "I run every morning.",
-          "notes": "Hızlı hareket etmek.",
-          "color": 4
-        },
-        {
-          "word": "eat",
-          "translation": "yemek yemek",
-          "type": 2,
-          "synonyms": "consume, dine",
-          "antonyms": "fast",
-          "example": "We eat dinner at seven.",
-          "notes": "Yemek yeme eylemi.",
-          "color": 2
-        },
-        {
-          "word": "sleep",
-          "translation": "uyumak",
-          "type": 2,
-          "synonyms": "rest, doze",
-          "antonyms": "wake",
-          "example": "Babies sleep a lot.",
-          "notes": "Dinlenme ve uyku eylemi.",
-          "color": 6
-        },
-        {
-          "word": "read",
-          "translation": "okumak",
-          "type": 2,
-          "synonyms": "study, peruse",
-          "antonyms": "",
-          "example": "I read books daily.",
-          "notes": "Yazılı metni anlamak.",
-          "color": 5
-        },
-        {
-          "word": "write",
-          "translation": "yazmak",
-          "type": 2,
-          "synonyms": "scribble, record",
-          "antonyms": "erase",
-          "example": "She writes a letter.",
-          "notes": "Yazı yazma eylemi.",
+          "example": "",
+          "notes": "",
           "color": 0
         },
         {
-          "word": "speak",
-          "translation": "konuşmak",
-          "type": 2,
-          "synonyms": "talk, say",
-          "antonyms": "listen",
-          "example": "He speaks three languages.",
-          "notes": "Sözlü iletişim kurmak.",
-          "color": 5
-        },
-        {
-          "word": "listen",
-          "translation": "dinlemek",
-          "type": 2,
-          "synonyms": "hear",
-          "antonyms": "speak",
-          "example": "Listen to me carefully.",
-          "notes": "Dikkatle kulak vermek.",
-          "color": 4
-        },
-        {
-          "word": "think",
-          "translation": "düşünmek",
-          "type": 2,
-          "synonyms": "ponder, consider",
+          "word": "particularly",
+          "translation": "özellikle, bilhassa",
+          "type": 4,
+          "synonyms": "notably, especially",
           "antonyms": "",
-          "example": "I think it's correct.",
-          "notes": "Zihinsel bir eylem.",
-          "color": 6
+          "example": "",
+          "notes": "",
+          "color": 0
         },
         {
-          "word": "know",
-          "translation": "bilmek",
-          "type": 2,
-          "synonyms": "understand",
+          "word": "available",
+          "translation": "mevcut, ulaşılabilir, elde edilebilir",
+          "type": 3,
+          "synonyms": "obtainable, on hand, accessible",
           "antonyms": "",
-          "example": "Do you know him?",
-          "notes": "Bilgi sahibi olmak.",
-          "color": 3
+          "example": "",
+          "notes": "",
+          "color": 0
         },
         {
-          "word": "want",
-          "translation": "istemek",
-          "type": 2,
-          "synonyms": "desire, wish",
-          "antonyms": "",
-          "example": "I want a coffee.",
-          "notes": "Arzu etmek.",
-          "color": 2
-        },
-        {
-          "word": "love",
-          "translation": "sevmek",
-          "type": 2,
-          "synonyms": "adore, cherish",
-          "antonyms": "hate",
-          "example": "I love my family.",
-          "notes": "Derin bir duygu.",
-          "color": 1
-        },
-        {
-          "word": "help",
-          "translation": "yardım etmek",
-          "type": 2,
-          "synonyms": "assist, aid",
-          "antonyms": "",
-          "example": "Can you help me?",
-          "notes": "Destek olmak.",
-          "color": 4
-        },
-        {
-          "word": "give",
-          "translation": "vermek",
-          "type": 2,
-          "synonyms": "offer, provide",
-          "antonyms": "take",
-          "example": "Give me the book.",
-          "notes": "Bir şeyi başkasına aktarmak.",
-          "color": 3
-        },
-        {
-          "word": "take",
-          "translation": "almak",
-          "type": 2,
-          "synonyms": "grab, receive",
-          "antonyms": "give",
-          "example": "Take this umbrella.",
-          "notes": "Bir şeyi kabul etmek veya tutmak.",
-          "color": 8
-        },
-        {
-          "word": "make",
-          "translation": "yapmak",
-          "type": 2,
-          "synonyms": "create, build",
-          "antonyms": "destroy",
-          "example": "Let's make a cake.",
-          "notes": "Bir şey üretmek.",
-          "color": 2
-        }
-      ]
-    },
-    {
-      "id": "basic-cows",
-      "title": "Temel İnekler",
-      "emoji": "🐄",
-      "wordLang": "en",
-      "transLang": "tr",
-      "words": [
-        {
-          "word": "cow",
-          "translation": "inek",
+          "word": "immigrant",
+          "translation": "göçmen, sığınmacı",
           "type": 1,
-          "synonyms": "",
+          "synonyms": "refugee",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "mention",
+          "translation": "bahsetmek, değinmek",
+          "type": 2,
+          "synonyms": "state, declare",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "occasionally",
+          "translation": "ara sıra, bazen",
+          "type": 4,
+          "synonyms": "sometimes, from time to time, at times",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "modify",
+          "translation": "değiştirmek",
+          "type": 2,
+          "synonyms": "change, alter",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "fatigue",
+          "translation": "yorgunluk, bitkinlik",
+          "type": 1,
+          "synonyms": "exhaustion, tiredness",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "civilization",
+          "translation": "uygarlık, medeniyet",
+          "type": 1,
+          "synonyms": "society, nation",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "battle",
+          "translation": "savaş, mücadele",
+          "type": 1,
+          "synonyms": "fight, clash, combat, war",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "incident",
+          "translation": "hadise, olay",
+          "type": 1,
+          "synonyms": "event, occurence",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "respect",
+          "translation": "saygı göstermek",
+          "type": 2,
+          "synonyms": "regard, esteem",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "former",
+          "translation": "önceki, evvelki, eski",
+          "type": 3,
+          "synonyms": "previous, earlier",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "dilemma",
+          "translation": "ikilem, çıkmaz",
+          "type": 1,
+          "synonyms": "difficulty, problem",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "significant",
+          "translation": "önemli, mühim",
+          "type": 3,
+          "synonyms": "considerable, noteworthy",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "misery",
+          "translation": "sefalet, perişanlık",
+          "type": 1,
+          "synonyms": "unhappiness, sadness",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "suggest",
+          "translation": "belirtmek, ileri sürmek, önermek",
+          "type": 2,
+          "synonyms": "advice, propose, indicate",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "confirm",
+          "translation": "doğrulamak, teyit etmek",
+          "type": 2,
+          "synonyms": "corroborate",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "common",
+          "translation": "ortak, yaygın",
+          "type": 3,
+          "synonyms": "widespread, usual",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "express",
+          "translation": "ifade etmek",
+          "type": 2,
+          "synonyms": "state, articulate, utter",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "condition",
+          "translation": "şart, durum",
+          "type": 1,
+          "synonyms": "state, situation, circumstance",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "exist",
+          "translation": "var olmak, hayatta olmak",
+          "type": 2,
+          "synonyms": "live, be alive, survive",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "measure",
+          "translation": "önlem, tedbir",
+          "type": 1,
+          "synonyms": "precaution",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "restricted",
+          "translation": "sınırlı, kısıtlı",
+          "type": 3,
+          "synonyms": "limited, constrained",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "goods",
+          "translation": "ticari mal, eşya",
+          "type": 1,
+          "synonyms": "merchandise, commodity",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "selfish",
+          "translation": "bencil, çıkarcı",
+          "type": 3,
+          "synonyms": "self-centered, egocentric",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "clue",
+          "translation": "ipucu, iz",
+          "type": 1,
+          "synonyms": "sign, hint",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "shift",
+          "translation": "değiştirmek, kaydırmak",
+          "type": 2,
+          "synonyms": "change, alter, modify",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "complaint",
+          "translation": "serzeniş, şikayet",
+          "type": 1,
+          "synonyms": "criticism, protest",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "fulfil",
+          "translation": "yapmak, yerine getirmek, gerçekleştirmek",
+          "type": 2,
+          "synonyms": "carry out, accomplish",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "doubt",
+          "translation": "şüphe, kuşku",
+          "type": 1,
+          "synonyms": "hesitation, uncertainty",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "observe",
+          "translation": "gözlemlemek, izlemek",
+          "type": 2,
+          "synonyms": "watch, monitör",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "embarrassment",
+          "translation": "mahcubiyet, utanma",
+          "type": 1,
+          "synonyms": "shame, humiliation",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "loyal",
+          "translation": "sadık, sadakatli",
+          "type": 3,
+          "synonyms": "trustworthy, reliable",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "sharply",
+          "translation": "hızla, keskince",
+          "type": 4,
+          "synonyms": "abruptly, suddenly, swiftly",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "expedition",
+          "translation": "yolculuk, sefer",
+          "type": 1,
+          "synonyms": "voyage, excursion, trip",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "wealth",
+          "translation": "refah, varlık",
+          "type": 1,
+          "synonyms": "prosperity, affluence",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "vacation",
+          "translation": "tatil, izin",
+          "type": 1,
+          "synonyms": "trip, rest",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "border",
+          "translation": "hudut, sınır",
+          "type": 1,
+          "synonyms": "boundary",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "decade",
+          "translation": "on yıl",
+          "type": 1,
+          "synonyms": "a 10-year period",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "criminal",
+          "translation": "suçlu, sabıkalı",
+          "type": 1,
+          "synonyms": "offender, convict, prisoner",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "simultaneously",
+          "translation": "eş zamanlı, aynı anda",
+          "type": 4,
+          "synonyms": "at the same time, concurrently",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "task",
+          "translation": "görev, vazife, iş",
+          "type": 1,
+          "synonyms": "job, duty",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "value",
+          "translation": "kıymet, değer",
+          "type": 1,
+          "synonyms": "worth",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "attach",
+          "translation": "bağlamak, eklemek",
+          "type": 2,
+          "synonyms": "fasten, join, connect",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "skill",
+          "translation": "beceri, yeti",
+          "type": 1,
+          "synonyms": "ability, talent, competence",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "commercial",
+          "translation": "ticari",
+          "type": 3,
+          "synonyms": "trading, merchant",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "participate",
+          "translation": "katılmak, iştirak etmek",
+          "type": 2,
+          "synonyms": "attend, take part in, join",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "establish",
+          "translation": "kurmak, oluşturmak",
+          "type": 2,
+          "synonyms": "set up, found",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "widely",
+          "translation": "geniş çapta, oldukça",
+          "type": 3,
+          "synonyms": "extensively, broadly",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "declare",
+          "translation": "duyurmak, ilan etmek, belirtmek, beyan etmek",
+          "type": 2,
+          "synonyms": "state, announce",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "temporary",
+          "translation": "geçici, süreli",
+          "type": 3,
+          "synonyms": "interim, momentary",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "public",
+          "translation": "halk, kamu",
+          "type": 1,
+          "synonyms": "community, society, nation",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "monetary",
+          "translation": "parasal, mali",
+          "type": 3,
+          "synonyms": "financial, fiscal",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "curiosity",
+          "translation": "merak, ilgi",
+          "type": 1,
+          "synonyms": "inquisitiveness, interest",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "likelihood",
+          "translation": "olasılık, ihtimal",
+          "type": 1,
+          "synonyms": "possibility, probability, prospect",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "intelligence",
+          "translation": "akıl, zeka",
+          "type": 1,
+          "synonyms": "acumen, cleverness",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "approve",
+          "translation": "onaylamak, kabul etmek",
+          "type": 2,
+          "synonyms": "support, endorse",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "cancel",
+          "translation": "iptal etmek, geçersiz kılmak, sonlandırmak",
+          "type": 2,
+          "synonyms": "call off, annul, revoke",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "supply",
+          "translation": "tedarik etmek, sağlamak",
+          "type": 2,
+          "synonyms": "provide, equip",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "attention",
+          "translation": "ilgi, özen",
+          "type": 1,
+          "synonyms": "care, interest",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "constantly",
+          "translation": "daimi olarak, sürekli",
+          "type": 4,
+          "synonyms": "continually, always, repititively",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "interest",
+          "translation": "ilgi, alaka",
+          "type": 1,
+          "synonyms": "attention, curiosity, care",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "talent",
+          "translation": "beceri, yetenek",
+          "type": 1,
+          "synonyms": "skill, competence, ability",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "especially",
+          "translation": "özellikle, bilhassa",
+          "type": 4,
+          "synonyms": "particularly, notably",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "provide",
+          "translation": "sağlamak, vermek",
+          "type": 2,
+          "synonyms": "supply, give, equip",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "extend",
+          "translation": "uzatmak, genişletmek",
+          "type": 2,
+          "synonyms": "prolong, stretch out",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "struggle",
+          "translation": "çabalamak, mücadele etmek",
+          "type": 2,
+          "synonyms": "strive, try, fight",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "currency",
+          "translation": "döviz, para birimi",
+          "type": 1,
+          "synonyms": "money",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "fate",
+          "translation": "kader, yazgı",
+          "type": 1,
+          "synonyms": "destiny, fortune",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "dramatically",
+          "translation": "önemli ölçüde, çarpıcı biçimde",
+          "type": 4,
+          "synonyms": "considerably, significantly, substantially",
           "antonyms": "",
           "example": "",
           "notes": "",
