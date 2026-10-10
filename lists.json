@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T16:39:16.387Z",
+  "updatedAt": "2026-10-10T17:58:50.278Z",
   "lists": [
     {
       "id": "ydt-kelimeler",
@@ -491,9 +491,9 @@
         },
         {
           "word": "labourer",
-          "translation": "önlem, tedbir",
+          "translation": "işçi, çalışan",
           "type": 0,
-          "synonyms": "",
+          "synonyms": "worker, employee",
           "antonyms": "",
           "example": "",
           "notes": "",
@@ -1204,6 +1204,206 @@
           "translation": "önemli ölçüde, çarpıcı biçimde",
           "type": 4,
           "synonyms": "considerably, significantly, substantially",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "current",
+          "translation": "mevcut, cari, şu anki",
+          "type": 3,
+          "synonyms": "present, existing",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "insufficient",
+          "translation": "yetersiz, az",
+          "type": 3,
+          "synonyms": "inadequate, deficient, lacking",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "halt",
+          "translation": "durdurmak, kesmek",
+          "type": 2,
+          "synonyms": "stop, pause, cease",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "densely",
+          "translation": "yoğun olarak",
+          "type": 4,
+          "synonyms": "heavily, thickly",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "considerably",
+          "translation": "önemli ölçüde, bir hayli",
+          "type": 4,
+          "synonyms": "significantly, substantially",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "impressive",
+          "translation": "etkileyici, çarpıcı",
+          "type": 3,
+          "synonyms": "inspiring, striking, remarkable",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "proceed",
+          "translation": "ilerlemek, devam etmek",
+          "type": 2,
+          "synonyms": "go on, carry on, continue",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "submit",
+          "translation": "sunmak, arz etmek",
+          "type": 2,
+          "synonyms": "offer, give, present",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "profit",
+          "translation": "getiri, kar",
+          "type": 1,
+          "synonyms": "income, earnings, revenue",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "traditional",
+          "translation": "geleneksel",
+          "type": 3,
+          "synonyms": "customary, conventional",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "seek",
+          "translation": "aramak, peşinden koşmak",
+          "type": 2,
+          "synonyms": "search for, hunt for, pursue",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "absolutely",
+          "translation": "kesinlikle, mutlaka",
+          "type": 4,
+          "synonyms": "definitely, certainly",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "rural",
+          "translation": "kırsala ait, taşra",
+          "type": 3,
+          "synonyms": "pastoral, countryside",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "celebrate",
+          "translation": "kutlamak, eğlenmek",
+          "type": 2,
+          "synonyms": "rejoice, have fun",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "vote",
+          "translation": "oy kullanmak, seçmek",
+          "type": 2,
+          "synonyms": "choose, elect",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "exhausted",
+          "translation": "yorgun, bitkin",
+          "type": 3,
+          "synonyms": "extremely tired",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "voluntary",
+          "translation": "gönüllü, isteyerek, bilerek",
+          "type": 3,
+          "synonyms": "willing, non-compulsory",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "demand",
+          "translation": "talep etmek, istemek",
+          "type": 2,
+          "synonyms": "request, ask, order",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "praise",
+          "translation": "övmek, methetmek, göklere çıkarmak",
+          "type": 2,
+          "synonyms": "admire, commend, extol",
+          "antonyms": "",
+          "example": "",
+          "notes": "",
+          "color": 0
+        },
+        {
+          "word": "solid",
+          "translation": "sağlam, kesin; katı",
+          "type": 3,
+          "synonyms": "strong; hard",
           "antonyms": "",
           "example": "",
           "notes": "",
